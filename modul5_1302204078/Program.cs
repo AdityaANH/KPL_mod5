@@ -10,7 +10,7 @@ namespace modul5_1302204078
     {
         static void Main(string[] args)
         {
-            SayaTubeVideo a = new SayaTubeVideo(" Design By Contract – [Aditya Nur Hidayatullah]");
+            SayaTubeVideo a = new SayaTubeVideo("Implementasi Design By Contract – [Aditya Nur Hidayatullah]");
             a.PrintVideoDetails();
             a.IncreasePlayCount(1);
             a.PrintVideoDetails();
